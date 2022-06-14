@@ -23,6 +23,10 @@
    margin: 20 px auto;
    object-fit: cover;
   }
+
+  p {
+    font-size: 25px;
+  }
   
   
   .container {
